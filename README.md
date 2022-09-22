@@ -58,6 +58,3 @@ Here are some basic things to know about TOSIN 😎🏾‍♂️;
 <code><img src="images/postman.png" width="60" title="Postman API" /></code>
 <code><img src="images/figma.jpeg" width="60" title="Figma" /></code>
 
-#### Lifestyle
-
-![pc](https://user-images.githubusercontent.com/105937740/186015907-bd8b7db8-f875-454b-bf1a-36177129aa42.gif)
